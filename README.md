@@ -1,2 +1,2 @@
 # Front-End-Code-Player
-run Front-end code online similar jsbin.com 
+run HTML & CSS & JS code online similar jsbin.com 
